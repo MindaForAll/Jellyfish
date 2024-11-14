@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",          // Set the module type to NodeNext
+      "moduleResolution": "NodeNext" // Set module resolution to NodeNext
+    },
+    "include": ["./src/**/*"],      // Adjust the include path as necessary
+    "exclude": ["node_modules"]     // Exclude the node_modules directory
+  }
